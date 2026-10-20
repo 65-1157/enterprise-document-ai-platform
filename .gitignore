@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Transient outputs
+reports/*.json
+reports/*.csv
+reports/*.parquet
+!reports/.gitkeep
+
+# Large models and indexes
+*.faiss
+*.safetensors
+*.bin
+models/
+checkpoints/

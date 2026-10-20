@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Q01",
+    "question": "Is indemnification financially limited?",
+    "source": "master_service_agreement.pdf",
+    "page": 1,
+    "risk": "HIGH",
+    "answerable": true
+  },
+  {
+    "id": "Q02",
+    "question": "What insurance coverage is required?",
+    "source": "master_service_agreement.pdf",
+    "page": 1,
+    "risk": "NONE",
+    "answerable": true
+  },
+  {
+    "id": "Q03",
+    "question": "What insurance coverage is provided?",
+    "source": "insurance_certificate.pdf",
+    "page": 1,
+    "risk": "NONE",
+    "answerable": true
+  },
+  {
+    "id": "Q04",
+    "question": "Who bears environmental remediation costs?",
+    "source": "environmental_annex.pdf",
+    "page": 1,
+    "risk": "HIGH",
+    "answerable": true
+  },
+  {
+    "id": "Q05",
+    "question": "What is the amended termination notice?",
+    "source": "amendment_01.pdf",
+    "page": 1,
+    "risk": "NONE",
+    "answerable": true
+  },
+  {
+    "id": "Q06",
+    "question": "Is the hazardous material permit supplied?",
+    "source": "regulatory_compliance_memo.pdf",
+    "page": 1,
+    "risk": "HIGH",
+    "answerable": true
+  },
+  {
+    "id": "Q07",
+    "question": "What was the company's audited profit in 2025?",
+    "source": null,
+    "page": null,
+    "risk": "UNKNOWN",
+    "answerable": false
+  }
+]
